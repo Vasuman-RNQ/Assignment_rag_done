@@ -1,1 +1,1 @@
-For the convenience all the implementations of the requirements are made at one place.
+For the convenience in all the implementations of the requirements are made at one place.The file used is specfied as "Company Financial Information 2023" too much downloading was causing issue.Also the approach is that the implementations of the componenets are done and then after that they are combined to get the required output.
